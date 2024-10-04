@@ -49,3 +49,7 @@ pages:
       title: Decision-support logic
     indicators.md:
       title: Indicator and Performance Metrics
+    functional-requirements.md:
+      title: Functional Requirements
+    non-functional-requirements.md:
+      title: Non-functional Requirements
