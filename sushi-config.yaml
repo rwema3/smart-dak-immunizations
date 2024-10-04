@@ -37,3 +37,5 @@ pages:
     title: Business Requirements
     concepts.md:
       title: Concepts
+    personas.md:
+      title: Generic Personas
