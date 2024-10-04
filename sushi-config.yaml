@@ -25,3 +25,5 @@ pages:
     title: Home
     changes.md:
       title: Changes
+    dependencies.md:
+      title: Dependencies
