@@ -12,3 +12,7 @@ releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | re
 # jurisdiction: urn:iso:std:iso:3166#US "United States of America" # https://www.hl7.org/fhir/valueset-jurisdiction.html
 publisher:
   name: WHO
+  url: http://who.int
+  # email: test@example.org
+
+
