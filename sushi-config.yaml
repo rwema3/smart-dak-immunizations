@@ -39,3 +39,6 @@ pages:
       title: Concepts
     personas.md:
       title: Generic Personas
+    scenarios.md:
+      title: User Scenarios
+    business-processes.md:
