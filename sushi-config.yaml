@@ -35,3 +35,5 @@ pages:
       title: License
   business-requirements.md:
     title: Business Requirements
+    concepts.md:
+      title: Concepts
