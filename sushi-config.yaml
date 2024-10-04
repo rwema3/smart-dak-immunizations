@@ -83,3 +83,11 @@ pages:
       title: Trust Domains
     downloads.md: 
       title: Downloads
+  indices.md:
+    title: Indices
+    artifacts.html: 
+      title: Artifact Index
+    maps.md: 
+      title: Mappings
+
+
