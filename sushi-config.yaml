@@ -75,3 +75,11 @@ pages:
       title: Security and Privacy Considerations
     testing.md: 
       title: Testing
+    test-data.md: 
+      title: Test Data
+    reference-implementations.md: 
+      title: Reference Implementations
+    trust_domain.md:
+      title: Trust Domains
+    downloads.md: 
+      title: Downloads
