@@ -27,3 +27,5 @@ pages:
       title: Changes
     dependencies.md:
       title: Dependencies
+    references.md:
+      title: References
