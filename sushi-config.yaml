@@ -108,3 +108,10 @@ menu:
     Indicator and Performance Metrics: indicators.html
     Functional Requirements: functional-requirements.html
     Non-functional Requirements: non-functional-requirements.html
+  Data Models and Exchange:
+    System Actors: system-actors.html
+    Sequence Diagrams: sequence-diagrams.html
+    Transactions: transactions.html
+    Indicators and Measures: indicators-measures.html
+    Codings: codings.html
+
