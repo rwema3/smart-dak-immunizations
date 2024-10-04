@@ -193,3 +193,18 @@ menu:
 # resource entries with the corresponding groupIds. If a resource
 # is specified by id or name, SUSHI will replace it with the correct
 # URL when generating the IG JSON.
+#
+# groups:
+#   GroupA:
+#     name: Group A
+#     description: The Alpha Group
+#     resources:
+#     - StructureDefinition/animal-patient
+#     - StructureDefinition/arm-procedure
+#   GroupB:
+#     name: Group B
+#     description: The Beta Group
+#     resources:
+#     - StructureDefinition/bark-control
+#     - StructureDefinition/bee-sting
+#
