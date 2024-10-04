@@ -132,3 +132,14 @@ menu:
 # │  resource. These properties are less commonly needed than those above.                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 #
+# Those who need more control or want to add additional details to the contact values can use
+# contact directly and follow the format outlined in the ImplementationGuide resource and
+# ContactDetail.
+#
+# contact:
+#   - name: Bob Smith
+#     telecom:
+#       - system: email # phone | fax | email | pager | url | sms | other
+#         value: bobsmith@example.org
+#         use: work
+#
