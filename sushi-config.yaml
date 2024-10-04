@@ -45,3 +45,7 @@ pages:
       title: Business Processes
     dictionary.md:
       title: Data Dictionary
+    decision-logic.md:
+      title: Decision-support logic
+    indicators.md:
+      title: Indicator and Performance Metrics
