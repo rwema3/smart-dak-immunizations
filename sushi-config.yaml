@@ -53,3 +53,9 @@ pages:
       title: Functional Requirements
     non-functional-requirements.md:
       title: Non-functional Requirements
+  data-models-and-exchange.md:
+    title: Data Models and Exchange
+    system-actors.md:
+      title: System Actors
+    sequence-diagrams.md:
+      title: Sequence Diagrams
