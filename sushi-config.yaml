@@ -42,3 +42,6 @@ pages:
     scenarios.md:
       title: User Scenarios
     business-processes.md:
+      title: Business Processes
+    dictionary.md:
+      title: Data Dictionary
