@@ -33,3 +33,5 @@ pages:
       title: Adapting Guidelines for Country use
     license.md:
       title: License
+  business-requirements.md:
+    title: Business Requirements
