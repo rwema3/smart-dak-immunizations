@@ -63,3 +63,7 @@ pages:
       title: Transactions
 #    logical-models.md:                                                                                                                                                   
 #      title: Logical Models                                                                                                                                              
+    indicators-measures.md:
+      title: Indicators and Measures
+#    profiles.xml:                                                                                                                                                        
+#      title: Content profiles 
