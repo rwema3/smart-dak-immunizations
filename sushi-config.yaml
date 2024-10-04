@@ -20,3 +20,6 @@ meta:
   profile:
     - SMARTImplementationGuide
 
+pages:
+  index.md:
+    title: Home
