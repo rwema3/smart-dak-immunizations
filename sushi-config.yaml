@@ -67,3 +67,5 @@ pages:
       title: Indicators and Measures
 #    profiles.xml:                                                                                                                                                        
 #      title: Content profiles 
+    codings.md:
+      title: Codings
