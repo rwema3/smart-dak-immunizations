@@ -98,3 +98,13 @@ menu:
     Dependencies: dependencies.html
     References: references.html
     Adapting Guidelines for Country use: adapting.html
+  Business Requirements: 
+    Concepts: concepts.html
+    Generic Personas: personas.html
+    User Scenarios: scenarios.html
+    Business Processes: business-processes.html
+    Data Dictionary: dictionary.html
+    Decision-support Logic: decision-logic.html
+    Indicator and Performance Metrics: indicators.html
+    Functional Requirements: functional-requirements.html
+    Non-functional Requirements: non-functional-requirements.html
