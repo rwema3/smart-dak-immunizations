@@ -3,3 +3,6 @@ canonical: http://worldhealthorganization.github.io/smart
 name: SMART
 title: SMART Empty IG
 description: An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides
+status: draft # draft | active | retired | unknown
+version: 0.1.0
+fhirVersion: 4.3.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
