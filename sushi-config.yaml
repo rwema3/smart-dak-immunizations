@@ -59,3 +59,7 @@ pages:
       title: System Actors
     sequence-diagrams.md:
       title: Sequence Diagrams
+    transactions.md:
+      title: Transactions
+#    logical-models.md:                                                                                                                                                   
+#      title: Logical Models                                                                                                                                              
