@@ -91,3 +91,10 @@ pages:
       title: Mappings
 
 
+menu:
+  Home: 
+    Summary: index.html
+    Changes: changes.html
+    Dependencies: dependencies.html
+    References: references.html
+    Adapting Guidelines for Country use: adapting.html
